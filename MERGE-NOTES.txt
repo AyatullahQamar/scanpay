@@ -1,0 +1,1 @@
+Admin dashboard integrated into website. Use /login or /signup to access /admin. Auth uses localStorage key scanpay_admin_auth. Run with npm install and npm run dev. Do not open index.html directly.
